@@ -1,8 +1,8 @@
 {
     "latest": 3,
     "version": "2.6.1",
-    "script_url": "https://arzswagtoolsgg.ru/",
+    "script_url": "https://github.com/NQueeur/SwagTools/raw/refs/heads/main/ArzSwagTools_PC.luac",
     "changes": [
-        "Test"
+        "Release"
     ]
 }
