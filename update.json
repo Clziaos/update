@@ -1,8 +1,8 @@
 {
-    "latest": 3,
-    "version": "2.6.1",
+    "latest": 4,
+    "version": "2.6.2",
     "script_url": "https://github.com/NQueeur/SwagTools/raw/refs/heads/main/ArzSwagTools_PC.luac",
     "changes": [
-        "Release"
+        "Исправлена работа сокращенных команд /cheat и /scheat"
     ]
 }
