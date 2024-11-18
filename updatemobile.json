@@ -1,7 +1,7 @@
 {
     "latest": 3,
     "version": "1.6",
-    "script_url": "",
+    "script_url": "https://github.com/NQueeur/SwagTools/raw/refs/heads/main/ArzSwagTools_Mobile.luac",
     "changes": [
         "Release"
     ]
