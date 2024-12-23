@@ -1,8 +1,0 @@
-{
-    "latest": 4,
-    "version": "1.6",
-    "script_url": "https://github.com/NQueeur/SwagTools/raw/refs/heads/main/ArzSwagTools_Mobile.luac",
-    "changes": [
-        "Исправлен баг с репортом, теперь айди показывает"
-    ]
-}
