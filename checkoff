@@ -1,0 +1,14 @@
+{
+	"arizona_pc": {
+		"status": true,
+		"info": "test"
+	},
+	"rodina_pc": {
+		"status": true,
+		"info": "test"
+	},
+	"arizona_mobile": {
+		"status": true,
+		"info": "test"
+	}
+}
