@@ -1,0 +1,10 @@
+{
+	"arizona_pc": {
+		"status": true,
+		"info": "Test"
+	},
+	"arizona_mobile": {
+		"status": true,
+		"info": "test"
+	}
+}
